@@ -6,4 +6,4 @@ My core strength is building clean, modular iOS architectures (MVVM) with a stro
 
 Alongside mobile development, I’m actively strengthening my AWS Cloud Engineering skill set. I have hands-on experience with AWS fundamentals, including cloud infrastructure concepts, Linux environments, and CI/CD workflows, and I’m learning how to design and automate reliable pipelines that support mobile and backend systems. This cloud perspective helps me better understand scalability, deployment, and operational concerns beyond the app layer.
 
-Earlier in my career, I worked as a QA Engineer testing mobile applications and embedded systems. That background still shapes how I write code today—I design features to be testable, resilient, and regression-safe, and I naturally think in terms of edge cases and failure scenarios.
+Earlier in my career, I worked as a QA Engineer testing mobile applications and embedded systems. That background still shapes how I write code today, I design features to be testable, resilient, and regression-safe, and I naturally think in terms of edge cases and failure scenarios.
