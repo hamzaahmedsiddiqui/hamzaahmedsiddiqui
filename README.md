@@ -42,9 +42,9 @@ I’m currently completing the **AWS re/Start Cloud Engineering Program** via **
 - Infrastructure as Code (Terraform)
 - Containerisation with Docker
 - Kubernetes orchestration
-- CI/CD pipeline design
+- CI/CD pipeline design 
 - Cloud security & identity management
-- Monitoring & observability practices (Datadog)
+- Monitoring & observability practices
 
 My goal is to design scalable, automated, and production-ready infrastructure that supports modern applications beyond the frontend layer.
 
@@ -73,6 +73,7 @@ My goal is to design scalable, automated, and production-ready infrastructure th
 ![Objective-C](https://img.shields.io/badge/Objective--C-438EFF?style=for-the-badge&logo=apple&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ---
