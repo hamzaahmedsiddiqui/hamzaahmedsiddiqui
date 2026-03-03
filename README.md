@@ -1,134 +1,98 @@
 <h1 align="center">Hamza Ahmed Siddiqui</h1>
 
 <h3 align="center">
-Software Engineer → Cloud & DevOps Engineering
+Cloud & DevOps Engineer | Former iOS Engineer | Automation-Driven Systems
 </h3>
 
 <p align="center">
-AWS • Azure • Docker • Kubernetes • Terraform • CI/CD • Automation  
-Mobile Engineering Foundation • Reliability • Scalable Systems
+AWS • Terraform • Docker • Kubernetes • CI/CD • Linux • Infrastructure Automation
 </p>
 
 ---
 
 ## 👋 About Me
 
-I’m a Software Engineer with a strong foundation in mobile development and test automation, currently transitioning into Cloud & DevOps engineering.
+I’m a Software Engineer with production experience in large-scale mobile systems, now focused on building and automating cloud infrastructure.
 
-Over the past several years, I’ve built and shipped production iOS applications at scale, most recently at **Mercedes-Benz Mobility**. My work has included modular architecture design (MVVM), CI/CD automation using GitHub Actions and Fastlane, unit testing with XCTest, and performance optimisation.  
+At **Mercedes-Benz Mobility**, I worked on modular iOS architecture, CI/CD automation, and production-grade release pipelines. I designed and maintained build workflows using GitHub Actions and Fastlane, implemented robust unit testing strategies, and collaborated across cross-functional teams to ship reliable software at scale.
 
-Working in cross-functional product teams gave me deep insight into how software moves from development to production — from feature planning to automated builds, testing, and release pipelines.
+That experience shaped how I think about systems today:  
+reliability first, automation by default, and infrastructure as code wherever possible.
 
-Today, my focus is on designing and automating reliable infrastructure. I’m expanding into:
-
-- Cloud infrastructure (AWS & Azure fundamentals)
-- Containerisation with Docker
-- Kubernetes orchestration
-- Infrastructure as Code (Terraform)
-- CI/CD pipeline design
-- Linux environments
-- Monitoring & observability (Datadog)
-
-Earlier in my career, I worked in QA and test automation for mobile and embedded systems. That experience strengthened my understanding of reliability, failure handling, and system-level thinking — perspectives that now shape how I approach scalable and resilient cloud systems.
+I am now focused on designing scalable, production-ready cloud environments using modern DevOps practices.
 
 ---
 
-## ☁️ Current Focus
+## ☁️ Engineering Focus
 
-I’m currently completing the **AWS re/Start Cloud Engineering Program** via **neuefische GmbH**, strengthening my foundation in:
-
-- AWS Cloud fundamentals (compute, networking, storage, IAM)
-- Linux systems & command line environments
-- Infrastructure as Code (Terraform)
-- Containerisation with Docker
-- Kubernetes orchestration
-- CI/CD pipeline design 
-- Cloud security & identity management
+- Infrastructure as Code with **Terraform**
+- Cloud architecture on **AWS**
+- Containerisation with **Docker**
+- Kubernetes-based orchestration
+- CI/CD pipeline design and automation
+- Linux system operations
 - Monitoring & observability practices
+- Secure infrastructure design
 
-My goal is to design scalable, automated, and production-ready infrastructure that supports modern applications beyond the frontend layer.
-
----
-
-# 🛠 Tech Stack
+My work emphasizes automation, repeatability, and system resilience — not just deployment.
 
 ---
 
-## ☁️ Cloud & DevOps
+# 🛠 Core Stack
+
+## ☁️ Cloud & Infrastructure
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 
 ---
 
-## 💻 Programming & Scripting
+## 💻 Programming & Automation
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## 📱 Engineering Background
 
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![Objective-C](https://img.shields.io/badge/Objective--C-438EFF?style=for-the-badge&logo=apple&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-
----
-
-## 📱 Application Engineering Foundation
-
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
-![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white)
-![Core Data](https://img.shields.io/badge/CoreData-FF6F00?style=for-the-badge)
-![XCTest](https://img.shields.io/badge/XCTest-4CAF50?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI/CD-Automation-blue?style=for-the-badge)
+
+Production mobile systems, modular architecture (MVVM), automated testing, and release engineering.
 
 ---
 
-## 🧪 Testing & Automation
+# 🔍 What Differentiates Me
 
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 🗄 Databases & APIs
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![REST](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+- ✔ Production engineering experience in enterprise-scale environments  
+- ✔ Deep understanding of CI/CD from both development and automation perspectives  
+- ✔ Test-first, reliability-driven mindset  
+- ✔ Cross-layer thinking: application → automation → infrastructure  
+- ✔ Experience moving features from planning to production deployment  
+- ✔ Strong Linux and command-line foundation  
 
 ---
 
-# 🔍 What I Bring That Matters
-
-- ✅ Real production experience in a large-scale product environment  
-- ✅ Strong understanding of CI/CD from both development and automation perspectives  
-- ✅ Test-first and reliability-driven mindset  
-- ✅ Ability to think across application, automation, and infrastructure layers  
-- ✅ Developer empathy — understanding how engineers build, test, and ship software  
-- ✅ Transitioning into cloud with structured training (AWS re/Start)  
-
----
-
-# 🎯 Career Direction
-
-Developer → Automation → Cloud → DevOps  
+# 🎯 Current Direction
 
 I’m building toward roles in:
 
 - Cloud Engineering  
 - DevOps Engineering  
 - Platform Engineering  
-- Site Reliability Engineering (SRE)  
+- Site Reliability Engineering  
+
+Focused on building infrastructure that is automated, scalable, observable, and resilient.
 
 ---
 
 <p align="center">
-Focused on building systems that are scalable, automated, and reliable.
+Building systems, not just deploying code.
 </p>
