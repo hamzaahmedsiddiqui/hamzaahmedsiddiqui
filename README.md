@@ -34,8 +34,6 @@ I am now focused on designing scalable, production-ready cloud environments usin
 - Monitoring & observability practices
 - Secure infrastructure design
 
-My work emphasizes automation, repeatability, and system resilience — not just deployment.
-
 ---
 
 # 🛠 Core Stack
@@ -97,5 +95,5 @@ Focused on building infrastructure that is automated, scalable, observable, and 
 ---
 
 <p align="center">
-Building systems, not just deploying code.
+Building systems, not just deploying code. My work emphasises automation, repeatability, and system stability, not just deployment.
 </p>
