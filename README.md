@@ -84,7 +84,6 @@ Production mobile systems, modular architecture (MVVM), automated testing, and r
 # 🎯 Current Direction
 
 I’m building toward roles in:
-
 - Cloud Engineering  
 - DevOps Engineering  
 - Platform Engineering  
