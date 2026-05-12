@@ -12,7 +12,7 @@ AWS • Terraform • Docker • Kubernetes • CI/CD • Linux • Infrastructu
 
 ## 👋 About Me
 
-I’m a Software Engineer with production experience in large-scale mobile systems, now focused on building and automating cloud infrastructure.
+Software engineer iOS with production experience transitioning into Cloud & DevOps through real infrastructure work.
 
 At **Mercedes-Benz Mobility**, I worked on modular iOS architecture, CI/CD automation, and production-grade release pipelines. I designed and maintained build workflows using GitHub Actions and Fastlane, implemented robust unit testing strategies, and collaborated across cross-functional teams to ship reliable software at scale.
 
@@ -66,7 +66,7 @@ I am now focused on designing scalable, production-ready cloud environments usin
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-Automation-blue?style=for-the-badge)
 
-Production mobile systems, modular architecture (MVVM), automated testing, and release engineering.
+Production mobile systems, modular architecture, automated testing, and release engineering.
 
 ---
 
