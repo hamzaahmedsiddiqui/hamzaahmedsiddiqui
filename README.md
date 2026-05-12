@@ -29,7 +29,7 @@ I am now focused on designing scalable, production-ready cloud environments usin
 - Cloud architecture on **AWS**
 - Containerisation with **Docker**
 - Kubernetes-based orchestration
-- CI/CD pipeline design and automation using **GitHub Action**
+- CI/CD pipeline design and automation using **GitHub Actions**
 - Linux system operations
 - Monitoring & observability practices
 - Secure infrastructure design
