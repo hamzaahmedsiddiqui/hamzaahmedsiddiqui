@@ -91,8 +91,6 @@ I’m building toward roles in:
 
 Focused on building infrastructure that is automated, scalable, observable, and resilient.
 
----
-
 <p align="center">
-Building systems, not just deploying code. My work emphasises automation, repeatability, and system stability, not just deployment.
+Building systems, not just deploying code. My work emphasizes automation, repeatability, and system stability, not just deployment.
 </p>
