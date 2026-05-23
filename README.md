@@ -1,4 +1,4 @@
-<h1 align="center">  Hamza Ahmed Siddiqui  </h1>
+<h1 align="center"> Hamza Ahmed Siddiqui </h1>
 
 <h3 align="center">
 Software Engineer | iOS Engineer | CI/CD & Cloud Automation
@@ -93,7 +93,6 @@ Automation-focused engineering across testing, CI/CD workflows, scripting, backe
 ---
 
 # 🎯 Current Direction
-
 Currently focused on opportunities in:
 - iOS Engineering
 - Software Engineering
@@ -102,6 +101,6 @@ Currently focused on opportunities in:
 
 Actively building hands-on projects involving AWS, Docker, Terraform, CI/CD pipelines, and Kubernetes while continuing to strengthen modern iOS engineering and automation practices.
 
-<p align="center">
+<p align="center"> 
 Focused on building reliable software, scalable systems, and automation-driven workflows through modern engineering and cloud technologies.
 </p>
