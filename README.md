@@ -42,6 +42,7 @@ Alongside my software engineering experience, I’ve been building hands-on clou
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white)
+![Objective-C](https://img.shields.io/badge/Objective--C-438EFF?style=for-the-badge&logo=apple&logoColor=white)
 ![Combine](https://img.shields.io/badge/Combine-FF6A00?style=for-the-badge&logo=apple&logoColor=white)
 ![XCTest](https://img.shields.io/badge/XCTest-15B8FC?style=for-the-badge&logo=apple&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
