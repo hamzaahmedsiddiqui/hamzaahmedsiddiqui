@@ -54,6 +54,7 @@ Production mobile applications, modular architecture, automated testing, CI/CD w
 ## ☁️ Cloud & Infrastructure
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Boto3](https://img.shields.io/badge/Boto3-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -61,6 +62,7 @@ Production mobile applications, modular architecture, automated testing, CI/CD w
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Amazon ECS](https://img.shields.io/badge/Amazon_ECS-FF9900?style=for-the-badge&logo=amazon-ecs&logoColor=white)
+
 
 Hands-on cloud infrastructure projects focused on automation, containerisation, CI/CD workflows, infrastructure as code, and production-style deployment practices on AWS.
 ---
