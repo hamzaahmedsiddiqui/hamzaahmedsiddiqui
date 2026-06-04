@@ -1,7 +1,7 @@
 <h1 align="center">  Hamza Ahmed Siddiqui  </h1>
 
 <h3 align="center">
-Software Engineer | iOS Engineer | CI/CD & Cloud Automation
+Software Engineer | iOS Engineer | CI/CD & Cloud Automation | QA 
 </h3>
 
 <p align="center">
