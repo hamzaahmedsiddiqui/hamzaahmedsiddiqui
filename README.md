@@ -106,5 +106,5 @@ Currently focused on opportunities in:
 Actively building hands-on projects involving AWS, Docker, Terraform, CI/CD pipelines, and Kubernetes while continuing to strengthen modern iOS engineering and automation practices.
 
 <p align="center"> 
-Focused on building reliable software, scalable systems, and automation-driven workflows through modern engineering and cloud technologies.
+Focused on building reliable software that includes iOS applications and cloud architecture, scalable systems, and automation-driven workflows through modern engineering and cloud technologies. 
 </p>
