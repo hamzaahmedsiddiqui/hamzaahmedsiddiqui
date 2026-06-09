@@ -1,24 +1,28 @@
 <h1 align="center">   Hamza Ahmed Siddiqui   </h1>
 
 <h3 align="center">
-Software Engineer | iOS Engineer | CI/CD & Cloud Automation | QA 
+
+Software Engineer | iOS Engineer | AI & Automation | Cloud & DevOps | QA
+
 </h3>
 
 <p align="center">
-Swift • SwiftUI • AWS • Docker • Terraform • GitHub Actions • Linux • Automation
+
+Swift • SwiftUI • AI Automation • n8n • AWS • Docker • Terraform • GitHub Actions • Linux
+
 </p>
 
 ---
 
 ## 👋 About Me
 
-Software Engineer with professional experience in iOS development, QA automation, and cloud infrastructure projects.
+Software Engineer with experience across mobile development, automation engineering, cloud infrastructure, and quality assurance.
 
-Most recently, I worked as an iOS Engineer at Mercedes-Benz Mobility AG, contributing to production mobile applications using Swift, SwiftUI, Combine, and MVVM architecture. My work included developing user-facing features, improving automated test coverage with XCTest, integrating REST and GraphQL APIs, and supporting CI/CD workflows using GitHub Actions and Fastlane.
+Most recently, I worked as an iOS Engineer at Mercedes-Benz Mobility AG, contributing to production applications using Swift, SwiftUI, Combine, GraphQL, and MVVM architecture. My work included building customer-facing features, improving automated test coverage, integrating backend services, and supporting CI/CD pipelines.
 
-Earlier in my career, I worked across QA automation and system validation roles involving mobile, backend, and embedded systems. This background shaped a strong engineering mindset focused on reliability, testing, maintainability, and automation.
+Earlier in my career, I worked in QA automation and system validation roles involving mobile, backend, web, and embedded systems. This experience strengthened my focus on reliability, testing, observability, and software quality throughout the development lifecycle.
 
-Alongside my software engineering experience, I’ve been building hands-on cloud and DevOps projects using AWS, Docker, Terraform, Linux, and GitHub Actions. I’m particularly interested in how modern applications are designed, deployed, automated, and operated at scale.
+Alongside software engineering, I actively build hands-on cloud, automation, and AI-driven projects using AWS, Docker, Terraform, GitHub Actions, Linux, n8n, and modern AI APIs. I am particularly interested in designing intelligent systems, workflow automation, cloud-native architectures, and scalable software solutions that improve operational efficiency and user experience.
 
 ---
 
@@ -27,10 +31,13 @@ Alongside my software engineering experience, I’ve been building hands-on clou
 - Modular and scalable mobile architecture
 - CI/CD automation with GitHub Actions & Fastlane
 - Automated testing with XCTest & PyTest
+- AI-powered workflow automation
+- Event-driven system integrations
+- API orchestration and webhook-based architectures
 - Cloud Infrastructure & DevOps
-- Infrastructure as Code with **Terraform**
-- Cloud architecture on **AWS**
-- Containerisation with **Docker**
+- Infrastructure as Code with Terraform
+- Cloud architecture on AWS
+- Containerisation with Docker
 - Kubernetes-based orchestration
 - Secure infrastructure design
 
@@ -68,7 +75,17 @@ Production mobile applications, modular architecture, automated testing, CI/CD w
 
 Hands-on cloud infrastructure projects focused on automation, containerisation, CI/CD workflows, infrastructure as code, and production-style deployment practices on AWS.
 ---
+## 🤖 AI & Automation
 
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![REST API](https://img.shields.io/badge/API_Integrations-0052CC?style=for-the-badge)
+![Webhooks](https://img.shields.io/badge/Webhooks-FF6B00?style=for-the-badge)
+![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-0A66C2?style=for-the-badge)
+
+Hands-on projects involving AI-powered workflow automation, API orchestration, intelligent ticket processing, event-driven integrations, and operational automation using modern AI services and workflow platforms.
+
+---
 ## 💻 Programming & Automation
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -85,23 +102,20 @@ Automation-focused engineering across testing, CI/CD workflows, scripting, backe
 
 # 🔍 What Differentiates Me
 
-- ✔ Production experience building and supporting software in enterprise environments  
-- ✔ Strong foundation in both software development and QA automation  
-- ✔ CI/CD experience from development, testing, and deployment perspectives  
-- ✔ Reliability-focused engineering mindset with emphasis on testing and maintainability  
-- ✔ Experience contributing to features from implementation to production release  
-- ✔ Cross-functional understanding of applications, automation, and infrastructure workflows  
-- ✔ Strong Linux, scripting, and command-line foundation  
-- ✔ Continuous learner with hands-on, project-driven approach to engineering growth 
+- ✔ Experience across software development, QA automation, cloud engineering, and AI-powered workflow automation
+- ✔ Strong API integration and automation background from both development and testing perspectives
+- ✔ Ability to bridge product, engineering, operations, and automation workflows
+- ✔ Hands-on experience building intelligent automation solutions using cloud services, APIs, and workflow orchestration platforms
 
 ---
 
 # 🎯 Current Direction
 Currently focused on opportunities in:
-- iOS Engineering
 - Software Engineering
-- QA Automation Engineering
+- iOS Engineering
+- AI & Automation Engineering
 - Cloud & DevOps Engineering
+- QA Automation Engineering
 
 Actively building hands-on projects involving AWS, Docker, Terraform, CI/CD pipelines, and Kubernetes while continuing to strengthen modern iOS engineering and automation practices.
 
