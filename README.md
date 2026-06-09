@@ -7,9 +7,7 @@ Software Engineer | iOS Engineer | AI & Automation | Cloud & DevOps | QA
 </h3>
 
 <p align="center">
-
 Swift • SwiftUI • AI Automation • n8n • AWS • Docker • Terraform • GitHub Actions • Linux
-
 </p>
 
 ---
