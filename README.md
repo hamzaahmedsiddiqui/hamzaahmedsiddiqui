@@ -116,7 +116,5 @@ Currently focused on opportunities in:
 - QA Automation Engineering
 
 <p align="center">
-
-Focused on building reliable software solutions across iOS development, AI-powered automation, and cloud infrastructure. Actively working on hands-on projects involving OpenAI, n8n, AWS, Docker, Terraform, CI/CD pipelines, and Kubernetes while designing scalable systems, intelligent workflows, and modern cloud-native architectures.
-
+Focused on building reliable software solutions across iOS development, AI-powered automation, and cloud infrastructure. Passionate about designing scalable systems, intelligent workflows, and modern architectures using cloud and automation technologies.
 </p>
