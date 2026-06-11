@@ -115,8 +115,8 @@ Currently focused on opportunities in:
 - Cloud & DevOps Engineering
 - QA Automation Engineering
 
-Actively building hands-on projects involving AWS, Docker, Terraform, CI/CD pipelines, and Kubernetes while continuing to strengthen modern iOS engineering and automation practices.
+<p align="center">
 
-<p align="center"> 
-Focused on building reliable software that includes iOS applications and cloud architecture, scalable systems, and automation-driven workflows through modern engineering and cloud technologies. 
+Focused on building reliable software solutions across iOS development, AI-powered automation, and cloud infrastructure. Actively working on hands-on projects involving OpenAI, n8n, AWS, Docker, Terraform, CI/CD pipelines, and Kubernetes while designing scalable systems, intelligent workflows, and modern cloud-native architectures.
+
 </p>
