@@ -54,8 +54,8 @@ Alongside software engineering, I actively build hands-on cloud, automation, and
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-blue?style=for-the-badge)
 
-Production mobile applications, modular architecture, automated testing, CI/CD workflows, and scalable iOS engineering practices.
---- 
+**Production mobile applications, modular architecture, automated testing, CI/CD workflows, and scalable iOS engineering practices.
+**--- 
 
 ## ☁️ Cloud & Infrastructure
 
@@ -71,8 +71,8 @@ Production mobile applications, modular architecture, automated testing, CI/CD w
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Amazon DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 
-Hands-on cloud infrastructure projects focused on automation, containerisation, CI/CD workflows, infrastructure as code, and production-style deployment practices on AWS.
----
+**Hands-on cloud infrastructure projects focused on automation, containerisation, CI/CD workflows, infrastructure as code, and production-style deployment practices on AWS.
+**---
 ## 🤖 AI & Automation
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
