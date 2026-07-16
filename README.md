@@ -2,7 +2,7 @@
 
 <h3 align="center">
 
-Software Engineer | iOS Engineer | AI & Automation | Cloud & DevOps | QA
+iOS Engineer | AI & Automation | Cloud & DevOps | QA
 
 </h3>
 
