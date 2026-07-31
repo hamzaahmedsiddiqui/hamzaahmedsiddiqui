@@ -14,13 +14,13 @@ Swift • SwiftUI • AI Automation • n8n • AWS • Docker • Terraform •
 
 ## 👋 About Me
 
-Software Engineer with experience across mobile development, automation engineering, cloud infrastructure, and quality assurance.
+iOS Engineer with 9 years of experience building and shipping native iOS applications using Swift, SwiftUI, UIKit, and Combine.
 
-Most recently, I worked as an iOS Engineer at Mercedes-Benz Mobility AG, contributing to production applications using Swift, SwiftUI, Combine, GraphQL, and MVVM architecture. My work included building customer-facing features, improving automated test coverage, integrating backend services, and supporting CI/CD pipelines.
+I'm currently building the Routify iOS app, an AI-powered route planning and delivery optimisation platform, working on real-time navigation, backend integration, and CI/CD automation. Before that, I worked on Mercedes-Benz Mobility's iOS app, refactoring UIKit to SwiftUI, maintaining the internal iOS SDK, and driving unit test coverage above 80%.
 
-Earlier in my career, I worked in QA automation and system validation roles involving mobile, backend, web, and embedded systems. This experience strengthened my focus on reliability, testing, observability, and software quality throughout the development lifecycle.
+Across my career, I've focused on clean architecture (MVVM, MVVM-C), code quality through code reviews and testing, and CI/CD automation with GitHub Actions and Fastlane.
 
-Alongside software engineering, I actively build hands-on cloud, automation, and AI-driven projects using AWS, Docker, Terraform, GitHub Actions, Linux, n8n, and modern AI APIs. I am particularly interested in designing intelligent systems, workflow automation, cloud-native architectures, and scalable software solutions that improve operational efficiency and user experience.
+Outside my main role, I build personal projects in cloud and automation using AWS, Docker, Terraform, GitHub Actions, Linux, n8n, and AI APIs, mostly to explore workflow automation and AI-driven tooling.
 
 ---
 
